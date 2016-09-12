@@ -4,8 +4,6 @@ Subject : https://github.com/flevesqu42/42_fdf/blob/master/ressources_github/fdf
 
 Release date : 02/13/2016
 
-Submit in : two weeks.
-
 Language : C
 
 Requirement : MinilibX OSx on native.
